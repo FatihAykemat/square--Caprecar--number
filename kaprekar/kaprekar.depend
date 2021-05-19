@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590753035 source:c:\users\fatih\desktop\c projeler\kaprekar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<math.h>
+
